@@ -1,0 +1,24 @@
+form{
+ background-color:#865959;
+ 
+}
+.caixanome{
+    background-color:  rgb(88, 105, 105);   
+    text-align: center;
+}
+.caixasobre{
+    background-color: rgb(88, 105, 105);
+    text-align: center;
+}
+.caixaemail{
+    background-color:  rgb(88, 105, 105);
+    text-align: center;
+}
+.caixasenha{
+    background-color:  rgb(88, 105, 105);
+    text-align: center;
+}
+label{
+    width: 100%;
+    display: block;
+    float: left;}

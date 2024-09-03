@@ -1,0 +1,35 @@
+/* padronizacao das cores por variaveis*/
+:root{
+    --azul:#0044af;
+    --vermelho:#ff0122;
+    --amarelo:#ffaf00;
+}
+#vertical .container{
+    width: 400px;
+    height: 350px;
+    /* define no grid*/
+    display: grid;
+    /*define o padrao de colunas - repetin (numco,tam) */
+    grid-template-columns: repeat(3,33%);
+      /*define o padrao de colunas - repetin (numin,tam) */
+     grid-template-rows: repeat(1,350px); 
+     /*define o esppacamento entre colunaas  e linhas*/
+     grid-column-gap: 1px;
+     grid-row-gap: 1px;
+}
+#vertical .container .item1{
+    background-color: var(--azul)
+}
+#vertical .container .item2{
+    background-color: var(--amarelo);
+}
+ertical .container .item3{
+    background-color: var(--vermelho);
+
+:root{
+    --verde:#1cc006;
+    --roxo:#2600af;
+    --rosa:#8080cd;
+}
+.container{
+    gap: 1px;

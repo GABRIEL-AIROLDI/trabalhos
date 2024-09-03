@@ -1,0 +1,16 @@
+.limpar{
+    color: red;
+}
+.enviar{
+    color: rgb(16, 168, 16);
+}
+.campo{
+    background-color: pink;
+    border: 3px dotted darkviolet;
+    padding: 5px;
+    font-size: 16px;
+    color: cyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+
+}

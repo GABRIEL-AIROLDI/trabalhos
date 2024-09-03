@@ -1,0 +1,200 @@
+.bandeira {
+width: 601px;
+height: 420px;
+border: 1px solid black;
+display: block;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+display: block;
+float: left;
+}
+.azulforte{
+    background-color: rgb(10, 10, 157);
+
+}
+.branco {
+    background-color:rgb(227, 224, 224) ;
+}
+.vermelho{
+background-color: rgb(142, 14, 14);
+}
+.lin3  
+{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.preto {
+    background-color: black;
+
+}
+.amarelo{
+    background-color: yellow;
+
+}
+.vermelho{
+    background-color: red;
+}
+.lin3{
+    width: 600px; 
+    height: 140px;
+    display: block;
+    float: left;
+    margin: 1px;
+}
+.preto{
+    background-color: black;
+}
+
+.amarelo{
+    background-color:rgb(232, 232, 10) ;
+}
+.vermelho{
+    background-color: rgb(171, 8, 8);
+}
+.col3{
+    width: 200px;
+    height: 420px;
+display: block;
+float: left;    
+}
+.verde{
+    background-color: green;
+}
+    .branco{
+        background-color: white;
+    }
+.vermelho{
+    background-color: red;
+}
+.lin3{
+    width: 600px;
+    height: 140px;
+    display: block;
+float: left;
+}
+.bola{
+    width: 150px;
+    height: 150px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 220px;
+    margin-top: 140px;
+}
+.bandeira  {
+    width: 600px;
+    height: 420px;
+    display: block;
+    float: left;
+    margin: 20px;
+    border: 1px solid black;
+}
+.lisvert{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+}
+.lisvert{
+    width: 95px;
+height: 400px;
+position: relative;
+top:-100px;
+left: 100px;
+}
+.col3{
+ width: 200px;
+ height: 420px;
+ display: block;
+ float: left;   
+}
+.laranja{
+    background-color: orange;
+}
+.branco{
+    background-color: white;
+
+}
+.cinza{
+    background-color:rgb(4, 106, 4);
+}
+.bandeira{
+   width: 600px;
+   height: 420px;
+   display: block;
+   position: relative;
+   
+} 
+
+.lishor2{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+     top: 130px;
+    
+}
+.lisvert2{
+    width: 150px;
+    height: 420px;
+    position: relative;
+    left: 90px;
+    top: -100px;
+}
+.bandeira2{
+    width: 600px;
+    height: 420px;
+    display: block;
+    position: relative;  
+ } 
+ .bandeira{
+    background-color: ;
+ }
+ .lishor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+     top: 130px;
+    
+}
+.lisvert{
+    width: 150px;
+    height: 420px;
+    position: relative;
+    left: 90px;
+    top: -100px;
+}
+.bandeira2{
+    width: 600px;
+    height: 420px;
+    display: block;
+    position: relative;  
+ } 
+ .bola2{
+    width: 150px;
+    height: 150px;
+    display: block;
+    border-radius: 100%;
+    position: relative;
+    top: 140px;
+    left: 150px;
+ }
+ .bandeira2{
+    background-color:rgb(4, 79, 4) ;
+ }
+.esq{
+    float: left;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,243 @@
+.elemento{
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+    display: block;
+    float: left;
+    border-radius: 3px;
+}
+.numatomico{
+    width: 65px;
+    height: 15px;
+    display: block;
+    float: left;
+    font-size: 13px;
+    padding-top: 5px;
+    padding-right: 10px;
+    text-align: right;
+}
+.simbolo{
+    width: 75px;
+    height: 30px;
+    display: block;
+    float: left;
+    font-size: 24px;
+    font-weight: 800;
+padding-top: 5px;
+text-align: center;
+margin: 0;
+padding: 0;
+}
+.nome{
+    width: 75px;
+    height: 25px;
+    display: block;
+    float: left;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.metalalcalinos{ 
+    background-color: hsl(48deg, 77%, 64%);
+
+}
+.metalalcalinoterrosos{
+    background-color: hsl(60deg,83%, 67%);
+}
+.lantanideo{
+    background-color: hsl(42deg, 62%, 76%);
+}
+.actnideo{
+    background-color: hsl(340deg,67% , 88%);
+
+}
+.transicao{
+    background-color: hsl(340deg,67%,88%);    
+}
+.metais{
+    background-color: hsl(192deg, 62%, 80%);
+}
+.naometal{
+    background-color: hsl(128deg, 73%, 74%);
+}
+.nobre{
+    background-color: hsl(300deg, 44%, 82%);
+}
+#tabela{
+    width: 1350px;
+    height: 600px;
+    display: block;
+    float: left;
+    background-color: bisque;
+
+}
+#tabela .colacalinos{
+    width: 75px;
+    height: 600px;
+    display: block;
+    float: left;
+    background-color:rgb(201, 145, 5)
+}
+#tabela .colacalinoterrosos{
+    width: 75px;
+height: 515px;
+top: 85px;
+position: relative;
+display: block;
+float: left;
+background-color: rgb(223, 163,  226);
+}
+#tabela .coltransicao{
+    width: 750px;
+height: 340px;
+top: 254px;
+background-color: blueviolet;
+position: relative;
+display: block;
+float: left;
+}
+#tabela .colboro{
+    width: 75px;
+    height: 515px;
+    position: relative;
+    top: 85px;
+    display: block;
+    float: left;
+    background-color: rgb(164, 226, 163);
+
+}
+#tabela .colcarbono{
+    width: 75px;
+    height: 515px;
+    position: relative;
+    top: 85px;
+    display: block;
+    float: left;
+    background-color:rgb(251, 255, 3)
+}
+#tabela .colnitrogenio{
+    width: 75px;
+    height: 515px;
+    position: relative;
+    top: 85px;
+    display: block;
+    float: left;
+    background-color:rgb(187, 15 ,18 )
+}
+#tabela .colcalcogenios{
+    width: 75px;
+    height: 510px;
+    position: relative;
+    top: 85px;
+    display: block;
+    float: left;
+    background-color:rgb(7,155,185)
+
+}
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .h: 750px;
+    height: 300px;
+    position: relative;
+    top: 225px;
+    display: block;
+    float: left;
+    background-color:rgb(192, 213, 0)
+}
+#tabela .colhalogenios{
+    width: 75px;
+    height: 515px;
+    position: relative;
+    top: 85px;
+    display: block;
+    float: left;
+    background-color:rgb(7, 242, 255)
+}
+#tabela .colgases{
+    width: 75px;
+    height: 600px;
+    position: relative;
+    display: block;
+    float: left;
+    background-color:rgb(9,147,74)
+}
+

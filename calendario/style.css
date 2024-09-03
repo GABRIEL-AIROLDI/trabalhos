@@ -1,0 +1,53 @@
+.table
+{
+    width: 600px;
+height: 300px;
+background-color: azure;
+margin: 3px;
+color: black;
+}
+.azul{
+    background-color: rgb(136, 136, 169);
+}
+.rosa{
+    background-color: #fa5793;
+}
+.verde{
+    background-color: green;
+}
+.amarelo{
+    background-color: yellow;
+}
+.vermelho{
+    background-color: red;
+}
+.cor{
+    background-color:#F5DEB3;
+}
+.limao{
+    background-color: #00FF00;
+}
+.azulzinho{
+    background-color: #00BFFF;
+}
+.piru{
+    background-color: peru;
+}
+.phisichal{
+    background-color: #836FFF;
+}
+.bio{
+    background-color: 	#32CD32;
+}
+.quimical{
+    background-color: Gainsboro;
+}
+.historical{
+    background-color: orange;
+}
+.geografia{
+    background-color: maroon
+}
+.speak{
+background-color: darkcyan;    
+}
